@@ -9,6 +9,8 @@ We are creating feature vector using count vectorizer and TFidf Vectorizer.
 We are using Random Forest algorithm and Naive Bayes.
 ## Accuracy
  Random Forest with feature extracted using count Vectorizer: 86% 
+ 
  Random Forest with feature extracted using Tfidf Vectrorizer: 79%
+ 
  Naive Bayes with feature extracted using count Vectorizer: 85%
 
