@@ -8,3 +8,5 @@ We are creating feature vector using count vectorizer
 ## Algorithm
 We are using Random Forest algorithm 
 ## Accuracy
+We have accuracy of 86%
+
